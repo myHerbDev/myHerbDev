@@ -1,0 +1,58 @@
+# create an automated tree planting script: plant a tree at "Tree-nation" when you click on a button and get an email summary of planted tree
+# Here is a sample automated tree planting script:
+
+# Python
+# Script
+
+import requests
+import json
+
+# Set your Tree-Nation API key
+API_KEY = "YOUR_API_KEY"
+
+# Define a function to plant a tree
+def plant_tree():
+    # Create a payload for the POST request
+    payload = {
+        "api_key": API_KEY,
+        "project_id": 12345, // Replace this with the ID of your Tree-Nation project
+        "tree_species": "Mangrove" // Replace this with the desired tree species
+    }
+
+    # Send the POST request
+    response = requests.post("https://api.tree-nation.com/v1/plant_tree", data=json.dumps(payload))
+
+    # Check the response status code
+    if response.status_code == 200:
+        print("Tree planted successfully!")
+    else:
+        print("Error planting tree:", response.status_code)
+
+# Define a function to send an email summary of the planted tree
+def send_email_summary(tree_id):
+    # Create an email message
+    email_message = {
+        "subject": "Tree planted!",
+        "body": "You have planted a mangrove tree with Tree-Nation! Your tree ID is: {}".format(tree_id)
+    }
+
+    # Send the email
+    requests.post("https://api.example.com/send_email", data=json.dumps(email_message))
+
+# Plant a tree when the button is clicked
+def on_button_click():
+    plant_tree()
+
+    # Get the tree ID of the planted tree
+    tree_id = response["tree_id"]
+
+    # Send an email summary of the planted tree
+    send_email_summary(tree_id)
+
+# Start the script
+on_button_click()
+
+
+
+# Use code with caution. Learn more
+# This script will plant a tree on Tree-Nation and send an email summary of the planted tree when the button is clicked. You can modify the script to use a different button, email service, or Tree-Nation project.
