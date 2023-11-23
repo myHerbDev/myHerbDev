@@ -1,3 +1,4 @@
+[i](https://github.com/myHerbDev/myHerbDev/assets/137535445/e60d0cac-b0bb-453b-8cd9-d40c152133c6)
 - 👋 Hi, I’m @myHerbDev
 - 👀 I’m interested in Google Cloud, Generative AI, App Development learning, Developing new Apps and services regarding enviroment & sustainability.
 - 🌱 I’m currently learning Google Developer & Skills boost, Coding, Deploying, GitHub, API, Webhooks, Integrations, Pyton, Digital Marketing and Marketing via API's Feeds.
@@ -8,4 +9,5 @@
 <!---
 myHerbDev/myHerbDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+--->!
+
