@@ -1,4 +1,5 @@
-[i](https://github.com/myHerbDev/myHerbDev/assets/137535445/e60d0cac-b0bb-453b-8cd9-d40c152133c6)
+![logo](https://github.com/myHerbDev/myHerbDev/assets/137535445/303808ce-dfe8-4d25-bcca-64a04f210ff0)
+
 - 👋 Hi, I’m @myHerbDev
 - 👀 I’m interested in Google Cloud, Generative AI, App Development learning, Developing new Apps and services regarding enviroment & sustainability.
 - 🌱 I’m currently learning Google Developer & Skills boost, Coding, Deploying, GitHub, API, Webhooks, Integrations, Pyton, Digital Marketing and Marketing via API's Feeds.
