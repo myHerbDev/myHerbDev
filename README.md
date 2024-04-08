@@ -1,6 +1,6 @@
 👋 Hey!, I’m Aaron Levin @myHerbDev (myherb.co.il)
 
-🌿 @myHerbAI - Your Partner in Sustainable Programming and Coding 🌿
+# 🌿 @myHerbAI - Your Partner in Sustainable Programming and Coding 🌿
 
 Discover the power of a natural and more sustainable lifestyle with myHerb. We provide data-driven guidance to help individuals and businesses embrace eco-friendly practices for a healthier future.
 
