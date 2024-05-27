@@ -1,7 +1,7 @@
-[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/myHerbAI)
 ![myherb white logo](https://github.com/myHerbDev/myHerbDev/assets/137535445/3de98266-bd30-4f12-9811-8f83c808e706)
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/myHerbAI)
 
-👋 Hey!, I’m Aaron Levin @myHerbDev (myherb.co.il)
+👋 Hey!, I’m Aaron Levin @myHerbDev @myHerbAI (myherb.co.il)
 
 # 🌿 @myHerbAI - Your Partner in Sustainable Programming and Coding 🌿
 
