@@ -1,5 +1,6 @@
 ![myherb white logo](https://github.com/myHerbDev/myHerbDev/assets/137535445/3de98266-bd30-4f12-9811-8f83c808e706)
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/myHerbAI)
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1ja68.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 
 👋 Hey!, I’m Aaron Levin @myHerbDev @myHerbAI (myherb.co.il)
 
