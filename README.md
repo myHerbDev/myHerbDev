@@ -22,6 +22,8 @@ Community Support: Connect with like-minded individuals committed to wellness an
 
 ## 💻 Let's Start Your Sustainability Shift
 
+Great! Our application is now live. Just under construction at this moment: Check out myAIHerb Beta v0.11 [https://shiny-semifreddo-a9cb5f.netlify.app]
+
 Website: https://myherb.co.il/
 Assess Your Impact: Take our sustainability assessment [link to assessment if applicable]
 Contact Us: https://myherb.co.il/contact-us/
