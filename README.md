@@ -3,6 +3,7 @@
 # @myHerbAI - Your Partner in Sustainable Programming and Coding 
 
 Discover the power of a natural and more sustainable lifestyle with myHerb. We provide data-driven guidance to help individuals and businesses embrace eco-friendly practices for a healthier future.
+![Designer - 2024-11-03T014247 859](https://github.com/user-attachments/assets/3c158b3d-eb8b-4b45-8f51-c7d758666cd6)
 
 ## 🌱 Our Mission: Sustainability & Wellness
 
