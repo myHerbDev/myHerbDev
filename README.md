@@ -18,20 +18,20 @@ Educational Resources: Learn about the benefits of sustainable living, natural w
 
 ## 💻 Let's Start Your Sustainability Shift
 
-Great! Our application is now live. Just under construction at this moment: Check out myAIHerb Beta v0.11 [https://shiny-semifreddo-a9cb5f.netlify.app]
+Great! Our application is now live. Just under construction at this moment: Check out [SightScope - Measure Your Website's Sustainability Metrics](https://shiny-semifreddo-a9cb5f.netlify.app)
 
-Website: [myHerb](https://myherb.co.il/)
-Assess Your Impact: Take our sustainability assessment [link to the evaluation if applicable]
-Contact Us: [Contact Us](https://myherb.co.il/contact-us/)
+- Website: [myHerb](https://myherb.co.il/)
+- Assess Your Impact: Take our sustainability assessment, Try [SightScope](https://shiny-semifreddo-a9cb5f.netlify.app)
+- Contact Us: [Contact Us](https://myherb.co.il/contact-us/)
 
 ## 🌟 Ongoing Projects
 
 | **Project**                     | **Description**                                                                 |
 |---------------------------------|---------------------------------------------------------------------------------|
-| **DigiPaper Saver - Paperless Sustainability Savings Calculator**   | See the impact of going paperless on the environment and your budget. |
-| **PaperSight Analytics - Paper Consumption Sustainability Calculator**   | See how reducing paper use impacts the environment and your budget by Monthly Paper Consumption (A4 units). |
-| **Tree Planting Initiatives**   | Engaging in reforestation efforts to promote biodiversity and carbon sequestration. |
-| **Web Sustainability Checker**   | a powerful tool designed to help developers and website owners assess and improve the sustainability of their web applications. |
+| **SightScope - Measure Your Website's Sustainability Metrics**   | a powerful tool designed to help developers and website owners assess and improve the sustainability of their web applications. |
+| **DigiPaper Trees Saver - Paperless Sustainability Savings Calculator by trees**   | See the impact of going paperless on the environment and your budget. |
+| **Printlessly Green Office - Paper Consumption Sustainability Calculator by A4 units**   | See how reducing paper use impacts the environment and your budget by Monthly Paper Consumption (A4 units). |
+| **Tree Planting Initiatives - Fight reforestation with automations & workflows**   | Engaging in reforestation efforts to promote biodiversity and carbon sequestration. |
 | **Educational Resources**       | Providing information and tools to educate users on sustainability.             |
 | **Eco-friendly Technologies**   | Developing innovative tech solutions to enhance sustainable practices.          |
 | **Community Engagement**        | Collaborating with local and global communities to foster environmental stewardship. |
