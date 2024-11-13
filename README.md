@@ -30,7 +30,7 @@ Great! Our application is now live. Just under construction at this moment: Chec
 | **Project**                     | **Description**                                                                 |
 |---------------------------------|---------------------------------------------------------------------------------|
 | **SightScope - Measure Your Website's Sustainability Metrics**   | a powerful tool designed to help developers and website owners assess and improve the sustainability of their web applications. |
-| **DigiPaper Trees Saver - Paperless Sustainability Savings Calculator by trees**   | See the impact of going paperless on the environment and your budget. |
+| **CarbonCut Trees Saver - Paperless Sustainability Savings Calculator by trees**   | See the impact of going paperless on the environment and your budget. |
 | **PrintLess Eco Metrics - Paper Consumption Sustainability Calculator by A4 units**   | See how reducing paper use impacts the environment and your budget by Monthly Paper Consumption (A4 units). |
 | **Tree Planting Initiatives - Fight reforestation with automations & workflows**   | Engaging in reforestation efforts to promote biodiversity and carbon sequestration. |
 | **Educational Resources**       | Providing information and tools to educate users on sustainability.             |
