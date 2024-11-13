@@ -40,6 +40,10 @@ Great! Our application is now live. Just under construction at this moment: Chec
 | **Eco-friendly Technologies**   | Developing innovative tech solutions to enhance sustainable practices.          |
 | **Community Engagement**        | Collaborating with local and global communities to foster environmental stewardship. |
 
+![Designer - 2024-11-03T015227 369](https://github.com/user-attachments/assets/4d1a7113-0911-4874-8f7f-f7644e52a1b9)
+
+
+
 ## 🚀 Application Development
 
 We are continuously working on developing and enhancing our applications to provide the best user experience and impactful solutions. Our current focus includes:
