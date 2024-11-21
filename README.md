@@ -3,7 +3,8 @@
 # @myHerbAI - Your Partner in Sustainable Programming and Coding 
 
 Discover the power of a natural and more sustainable lifestyle with myHerb. We provide data-driven guidance to help individuals and businesses embrace eco-friendly practices for a healthier future.
-![Designer - 2024-11-03T014432 079](https://github.com/user-attachments/assets/31f644cf-35b5-4ef7-aeb3-23715979d623)
+![Aaron Levin - 2024-11-19T221535 193](https://github.com/user-attachments/assets/9c952d3c-9ea6-4a8d-b439-db402851f938)
+
 
 
 
@@ -40,7 +41,10 @@ Great! Our application is now live. Just under construction at this moment: Chec
 | **Eco-friendly Technologies**   | Developing innovative tech solutions to enhance sustainable practices.          |
 | **Community Engagement**        | Collaborating with local and global communities to foster environmental stewardship. |
 
-![Designer - 2024-11-03T015227 369](https://github.com/user-attachments/assets/4d1a7113-0911-4874-8f7f-f7644e52a1b9)
+![data-driven312](https://github.com/user-attachments/assets/e0f37c28-37e7-4040-8ceb-b65233c6860f)
+
+
+
 
 
 
