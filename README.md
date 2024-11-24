@@ -23,10 +23,10 @@ Educational Resources: Learn about the benefits of sustainable living, natural w
 
 ## 💻 Let's Start Your Sustainability Shift
 
-Great! Our application is now live. Just under construction at this moment: Check out [SightScope - Measure Your Website's Sustainability Metrics](https://shiny-semifreddo-a9cb5f.netlify.app)
+Great! Our application is now live. Just under construction at this moment: Check out [EcoWeb Metrics - Measure Your Website's Sustainability Metrics](https://snazzy-banoffee-1a4526.netlify.app/)
 
 - Website: [myHerb](https://myherb.co.il/)
-- Assess Your Impact: Take our sustainability assessment, Try [SightScope](https://shiny-semifreddo-a9cb5f.netlify.app)
+- Assess Your Impact: Take our sustainability assessment, Try [EcoWeb Metrics](https://snazzy-banoffee-1a4526.netlify.app/))
 - Contact Us: [Contact Us](https://myherb.co.il/contact-us/)
 
 ## 🌟 Ongoing Projects
