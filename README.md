@@ -6,6 +6,9 @@
 
 Welcome to myHerbDev, the development repository for myHerb.co.il, founded by Aaron Levin. This project focuses on creating sustainable living solutions through innovative technology and data-driven insights.
 
+![Designer - 2024-11-22T194706 596](https://github.com/user-attachments/assets/426413df-b51a-4cd6-b8ae-1288dea6abe3)
+
+
 ## Table of Contents
 
 - Introduction
