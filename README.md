@@ -104,6 +104,7 @@ Great! Our application is now live. Just under construction at this moment: Chec
 
 | **Project**                     | **Description**                                                                 |
 |---------------------------------|---------------------------------------------------------------------------------|
+| **EcoConnect ([Link]((https://v0-my-herb-app-enhancement-5kk5dzb8z-myherbdev.vercel.app))) - a cutting-edge application designed to empower individuals and organizations in their sustainability journey. This comprehensive platform offers a suite of tools to track environmental impact, receive personalized recommendations, and connect with a community dedicated to creating a sustainable future.**   |
 | **EcoWeb Metrics ([Link](https://snazzy-banoffee-1a4526.netlify.app/)) - Measure Your Website's Sustainability Metrics**   | a powerful tool designed to help developers and website owners assess and improve the sustainability of their web applications. |
 | **CarbonCut Trees Saver - Paperless Sustainability Savings Calculator by trees**   | See the impact of going paperless on the environment and your budget. |
 | **PrintLess EcoMetrics ([Link](https://v0-print-less-eco-metrics-bud6sodkwjo-pxgq99wlt-myherbdev.vercel.app/)) - Paper Consumption Sustainability Calculator by A4 units**   | See how reducing paper use impacts the environment and your budget by Monthly Paper Consumption (A4 units). |
