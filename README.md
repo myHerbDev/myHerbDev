@@ -6,7 +6,8 @@
 
 Welcome to @myHerbDev, the development repository for myHerb.co.il, founded by Aaron Levin. This project focuses on creating sustainable living solutions through innovative technology and data-driven insights.
 
-![Designer (10)](https://github.com/user-attachments/assets/004386ad-3fd1-4b5d-b070-cf629de1d48b)
+![community21](https://github.com/user-attachments/assets/fc0d4560-abca-4872-8dbb-79c4dc0f0264)
+
 
 ## Table of Contents
 
@@ -94,6 +95,8 @@ Please make sure your code follows our coding standards and includes the appropr
 ## 💻 Let's Start Your Sustainability Shift
 
 Great! Our application is now live. Just under construction at this moment: Check out [EcoWeb Metrics - Measure Your Website's Sustainability Metrics](https://snazzy-banoffee-1a4526.netlify.app/)
+
+![v0 (Trimpact 2332)](https://github.com/user-attachments/assets/0596fda0-58e8-4323-9456-6843ad36c98b)
 
 - Website: [myHerb](https://myherb.co.il/)
 - Assess Your Impact: Take our sustainability assessment; try [EcoWeb Metrics](https://snazzy-banoffee-1a4526.netlify.app/))
