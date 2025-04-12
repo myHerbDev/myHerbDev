@@ -3,6 +3,7 @@
 # @myHerbAI - Your Partner in Sustainable Programming and Coding 
 
 ## myHerbDev
+![DevSphere Design Kit](https://github.com/user-attachments/assets/6ef01a5a-dade-4edf-8307-673a6f551c36)
 
 Welcome to @myHerbDev, the development repository for myHerb.co.il, founded by Aaron Levin. This project focuses on creating sustainable living solutions through innovative technology and data-driven insights.
 
