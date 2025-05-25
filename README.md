@@ -7,7 +7,8 @@
 
 Welcome to @myHerbDev, the development repository for myHerb.co.il, founded by Aaron Levin. This project focuses on creating sustainable living solutions through innovative technology and data-driven insights.
 
-![community21](https://github.com/user-attachments/assets/fc0d4560-abca-4872-8dbb-79c4dc0f0264)
+![The AI Sustainability Advisor is a tool that uses AI-powered analysis to provide personalized recomm](https://github.com/user-attachments/assets/6581bc77-aeb5-47ee-a611-b51499c56433)
+
 
 
 ## Table of Contents
