@@ -2,7 +2,7 @@
 
 🌱 **Founder & CEO at [myHerb](https://www.myherb.co.il/)** 
 📍 Israel, Southern District  
-💡 > "Every idea is a seed with infinite potential. At myHerb, we nurture each spark of inspiration into an ecosystem of sustainable innovation, proving that even the smallest thought can grow into something transformative." — myHerb (Aaron Levin)
+> "Every idea is a seed with infinite potential. At myHerb, we nurture each spark of inspiration into an ecosystem of sustainable innovation, proving that even the smallest thought can grow into something transformative." — myHerb (Aaron Levin)
 
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/myHerbDev)  [@myHerbDev](https://github.com/sponsors/myHerbDev?frequency=one-time&sponsor=myHerbDev) | [@myHerbAI](https://github.com/sponsors/myHerbAI)
 
@@ -83,4 +83,41 @@ I specialize in open-source tools and integrative sustainability projects. My mi
 
 ---
 
+Below is a sample GitHub README markdown file that addresses the license terms in a clear, robust manner:
+
+---
+
+# myHerb Project
+
+Welcome to the myHerb Project repository. This project is a seed of innovation—a carefully nurtured collection of ideas designed to inspire creativity and sustainable growth.
+
+## License
+
+**License Notice:**  
+The contents of this repository are **free to share** with anyone who wishes to spread the inspiration. However, please note that you are **not permitted to modify or download** any part of this content. This restriction ensures that every seed of creativity remains in its original, unaltered form—preserving the integrity of our message and intention.
+
+> **Important:** Sharing is encouraged, but any modifications, downloads, or forks that alter the original content are strictly prohibited under this license.
+
+## About
+
+At myHerb, we believe that every idea is a seed with infinite potential. This repository is a reflection of that philosophy—a declaration of our commitment to nurturing unique concepts and fostering an ecosystem of innovation. By keeping the content intact, we ensure that the original vision remains pure and inspiring for all who share it.
+
+## Acknowledgements
+
+We wholeheartedly appreciate every individual and community member that resonates with our vision. Your enthusiasm and dedication to the growth of ideas inspire us daily. Please respect the license terms when sharing our work and help preserve the essence of our innovation.
+
+## Contact
+
+For questions or additional information, please reach out to:
+
+Aaron Levin
+Founder & CEO
+[Visit myHerb](https://www.myherb.co.il)  
+[Send Email Message](mailto:myherb.contact@gmail.com)
+
+---
+
+Feel free to integrate this template into your repository to ensure clarity regarding the licensing of the content while spreading inspiration responsibly. 
+
+---
 **Let’s build a more sustainable, data-driven future—one project at a time!**
