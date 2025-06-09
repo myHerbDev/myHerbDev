@@ -4,7 +4,10 @@
 📍 Israel, Southern District  
 > "Every idea is a seed with infinite potential. At myHerb, we nurture each spark of inspiration into an ecosystem of sustainable innovation, proving that even the smallest thought can grow into something transformative." — myHerb (Aaron Levin)
 
-[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/myHerbDev)  [@myHerbDev](https://github.com/sponsors/myHerbDev?frequency=one-time&sponsor=myHerbDev) | [@myHerbAI](https://github.com/sponsors/myHerbAI)
+[![GitBook](https://img.shields.io/static/v1?message=Documented%20on%20GitBook&logo=gitbook&logoColor=ffffff&label=%20&labelColor=5c5c5c&color=3F89A1)](https://www.gitbook.com/preview?utm_source=gitbook_readme_badge&utm_medium=organic&utm_campaign=preview_documentation&utm_content=link)
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/myHerbDev)
+---
+[@myHerbDev](https://github.com/sponsors/myHerbDev?frequency=one-time&sponsor=myHerbDev) | [@myHerbAI](https://github.com/sponsors/myHerbAI)
 
 ![Become myHerb on GitHub](https://github.com/user-attachments/assets/d77a8de2-6157-44a1-9cf0-7ee14d15d406)
 
