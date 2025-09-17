@@ -14,6 +14,15 @@
 ---
 
 ## 🚀 About Me
+### Key Points
+- Aaron Levin, founder and CEO of myHerb, focuses on sustainability and innovation through technology, design, and automation. 
+- Projects include EcoSense Dashboard, EcoShift, and PrintLess EcoMetrics, aimed at environmental impact and data-driven solutions. 
+- Resources like free datasets, compliance websites, and sustainability courses are recommended for development. 
+- Licensing terms for the myHerb repository prohibit modifications to preserve original content integrity. 
+- Aaron Levin integrates AI-driven tools and open-source solutions to enhance eco-conscious efforts. 
+- Favorite projects include EcoSense Dashboard, EcoSense AI, WebInsight, EcoShift, PrintLess EcoMetrics, and Trimpact, focusing on sustainability and environmental technology. 
+- Skills include programming (Python), machine learning, AI, web development, automation, and sustainability-focused tools. 
+- The mission emphasizes empowering communities and companies to automate, analyze, and optimize environmental efforts. 
 
 I’m passionate about building innovative solutions that drive sustainability, enhance environmental impact, and provide data-driven insights. As the founder of myHerb, I blend technology, design, and creativity to automate, analyze, and synchronize processes—supporting individuals and organizations in expanding their positive environmental footprint.
 
@@ -78,6 +87,8 @@ I specialize in open-source tools and integrative sustainability projects. My mi
 - [Website](https://www.myherb.co.il/)  
 - [X (Twitter)](https://x.com/myherb1/)  
 - [Figma](https://figma.com/@myherb/)  
+
+<img width="2526" height="2730" alt="Mind Map of myHerbDev (1)" src="https://github.com/user-attachments/assets/311b64e6-0bf3-4dbe-81e3-db6c0f762b62" />
 
 ---
 
